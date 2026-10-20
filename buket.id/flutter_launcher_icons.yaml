@@ -1,0 +1,21 @@
+# Flutter Launcher Icons Configuration
+# Generate icons dari SVG bouquet logo
+
+flutter_icons:
+  # Platform targets
+  ios: true
+  android: true
+  
+  # Source logo
+  image_path: "assets/icons/bouquet_logo.svg"
+  
+  # Android adaptive icon configuration
+  adaptive_icon_background: "#FFE91E63"  # Pink primary color
+  adaptive_icon_foreground: "assets/icons/bouquet_logo.svg"
+  
+  # Remove alpha channel before release
+  remove_alpha_ios: false
+  remove_alpha_android: false
+  
+  # Minimum versions
+  min_sdk_android: 21

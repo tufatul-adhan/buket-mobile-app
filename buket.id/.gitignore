@@ -1,0 +1,14 @@
+.vscode/
+.idea/
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+*.swp
+*.swo
+*~
+.DS_Store
+*.iml
+*.log

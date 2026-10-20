@@ -1,0 +1,27 @@
+# Flutter generated files
+buket.id/.dart_tool/
+buket.id/build/
+buket.id/.flutter-plugins
+buket.id/.flutter-plugins-dependencies
+buket.id/.packages
+buket.id/coverage/
+buket.id/*.iml
+buket.id/.idea/
+buket.id/.vscode/
+buket.id/.venv/
+
+# Local secrets and environment files
+.env
+**/.env
+
+# Node.js generated files
+buket.id-backend/node_modules/
+buket.id-backend/npm-debug.log*
+
+# Local database and operating system files
+*.db
+*.sqlite
+*.sqlite3
+.DS_Store
+Thumbs.db
+*.log
